@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luoliwoshang&show_icons=true&theme=radical" width="50%"  alt="Anurag's GitHub stats"/> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luoliwoshang&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false"  width="50%"/>
   </div>
-  <div>
+  <div align="right">
     <!-- lanuguage -->
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
